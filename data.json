@@ -12,7 +12,57 @@
       "college":"",
       "title":"",
       "date":"",
-      "remarks":"",
+      "remarks":[],
+    },
+    {
+      "college":"",
+      "title":"",
+      "date":"",
+      "remarks":[],
+    }
+  ],
+  "projects":[
+    {
+      "title":"",
+      "skills":"",
+      "remarks":[
+        
+      ]
+    },
+    {
+      "title":"",
+      "skills":"",
+      "remarks":[
+        
+      ]
+    },
+    {
+      "title":"",
+      "skills":"",
+      "remarks":[
+        
+      ]
+    },
+    {
+      "title":"",
+      "skills":"",
+      "remarks":[
+        
+      ]
+    }
+  ],
+  "experience":[
+    {
+      "title":"",
+      "company":"",
+      "date":"",
+      "remarks":[]
+    },
+    {
+      "title":"",
+      "company":"",
+      "date":"",
+      "remarks":[]
     }
   ]
 }
